@@ -9,3 +9,6 @@ cd /tmp/ && yum install git -y && git clone https://github.com/AlefbeMedia/Perso
 Codes to add a user to the server:
 
 useradd [username] - passwd [username]
+
+
+Good luck❤️😍
